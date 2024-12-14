@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3.21.0
 
 LABEL maintainer="Roger Light <roger@atchoo.org>" \
     description="Eclipse Mosquitto MQTT Broker"
